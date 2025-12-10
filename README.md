@@ -56,7 +56,7 @@ scene/
 └── pose/*.txt
 ```
 
-If your dataset differs, convert it:
+If your dataset differs, convert it. This is an example to convert using something like this (For Arti4D data format):
 
 ```bash
 python convert_to_openmask3d.py     --input <raw_scene_dir>     --output data/input/<scene_name>
