@@ -1,0 +1,6 @@
+numpy
+torch
+open3d
+requests
+urllib3
+git+https://github.com/openai/CLIP.git
